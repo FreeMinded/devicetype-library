@@ -6,15 +6,15 @@ slug: deciso-dec740
 is_full_depth: false
 u_height: 1
 interfaces:
-  - name: igb0
+  - name: igc0
     label: '0'
-    type: 1000base-t
-  - name: igb1
+    type: 2.5gbase-t
+  - name: igc1
     label: '1'
-    type: 1000base-t
-  - name: igb2
+    type: 2.5gbase-t
+  - name: igc2
     label: '2'
-    type: 1000base-t
+    type: 2.5gbase-t
   - name: ax0
     label: X0
     type: 10gbase-x-sfpp
